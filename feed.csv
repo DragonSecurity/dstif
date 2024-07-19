@@ -43,3 +43,6 @@ http://nakedsecurity.sophos.com/feed/,Naked Security
 https://api.msrc.microsoft.com/update-guide/rss,MSRC Security Update
 https://binarly.io/rss.xml,Binarly
 https://securitylabs.datadoghq.com/rss/feed.xml,Datadog Security Labs
+https://www.cloudvulndb.org/rss/feed.xml,Cloud Vuln DB
+https://johnstawinski.com/feed/,John Stawinski
+https://techcrunch.com/feed/,TechCrunch
