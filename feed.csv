@@ -46,3 +46,21 @@ https://securitylabs.datadoghq.com/rss/feed.xml,Datadog Security Labs
 https://www.cloudvulndb.org/rss/feed.xml,Cloud Vuln DB
 https://johnstawinski.com/feed/,John Stawinski
 https://techcrunch.com/feed/,TechCrunch
+https://aws.amazon.com/security/security-bulletins/feed/,AWS Latest
+http://feeds.feedburner.com/AWSSecurity,AWS Security
+http://feeds.arstechnica.com/arstechnica/security,Ars Technica
+https://blog.malwarebytes.com/feed/,Malwarebytes Labs
+https://nakedsecurity.sophos.com/feed/,SOPHOS Naked Security
+https://medium.com/feed/@magoo/,Startup Security
+https://medium.com/feed/starting-up-security,Starting Up Security
+http://thehackernews.com/feeds/posts/default,The Hacker News
+https://www.theregister.co.uk/security/headlines.atom,The Register - Security
+https://medium.com/feed/threat-intel/,Symantec Threat Intel
+https://threatpost.com/feed/,ThreatPost
+http://www.zdnet.com/topic/security/rss.xml,ZDNet Security
+https://technet.microsoft.com/en-us/security/rss/advisory,MSRC SA
+https://www.ubuntu.com/usn/atom.xml,UBUNTU SA
+https://www.us-cert.gov/ncas/current-activity.xml,US_CERT
+https://www.wired.com/feed/category/security/latest/rss,Wired
+https://filestore.fortinet.com/fortiguard/rss/threatsignal.xml,FortiGuard Threat Signal
+https://filestore.fortinet.com/fortiguard/rss/outbreakalert.xml,FortiGuard Outbreak Alerts
