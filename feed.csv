@@ -1,19 +1,22 @@
+https://googleprojectzero.blogspot.com/feeds/posts/default,Google Project Zero
+https://www.zerodayinitiative.com/rss/blog,ZDI Blog
+https://www.zerodayinitiative.com/rss/published,ZDI Published Advisories
+https://www.wiz.io/blog/rss.xml,Wiz Research
+https://permiso.io/blog/rss.xml,Permiso Cloud Security
+https://doublepulsar.com/feed,DoublePulsar (Kevin Beaumont)
+https://citizenlab.ca/feed/,Citizen Lab
+https://securitylab.github.com/rss.xml,GitHub Security Lab
 https://grahamcluley.com/feed/,Graham Cluley
-https://threatpost.com/feed/,Threatpost
 https://krebsonsecurity.com/feed/,Krebs on Security
 https://www.darkreading.com/rss.xml,Dark Reading
 https://www.welivesecurity.com/feed/,We Live Security (ESET)
 https://davinciforensics.co.za/cybersecurity/feed/,DaVinci Forensics
-https://blogs.cisco.com/security/feed,Cisco Security
-https://www.infosecurity-magazine.com/rss/news/,Infosecurity Magazine
 https://blog.google/threat-analysis-group/rss/,Google TAG
-https://blog.google/security/feed/,Google Security Blog
 https://www.trendmicro.com/en_us/research/rss.xml,Trend Micro Research
 https://www.bleepingcomputer.com/feed/,BleepingComputer
 https://www.proofpoint.com/us/rss.xml,Proofpoint
 https://thehackernews.com/feeds/posts/default,Hacker News
 https://www.schneier.com/feed/atom/,Schneier on Security
-https://www.binarydefense.com/feed/,Binary Defense
 https://securelist.com/feed/,Securelist (Kaspersky)
 https://research.checkpoint.com/feed/,Checkpoint Research
 https://www.virusbulletin.com/rss,Virus Bulletin
@@ -59,4 +62,4 @@ https://thedfirreport.com/feed/,The DFIR Report
 https://cert.europa.eu/publications/security-advisories/rss.xml,CERT-EU Advisories
 https://www.flashpoint.io/blog/rss.xml,Flashpoint Intel
 https://vulncheck.com/feed.xml,VulnCheck Research
-https://troyhunt.com/feed/,Troy Hunt (Have I Been Pwned)
+https://troyhunt.com/feed/,Troy Hunt
