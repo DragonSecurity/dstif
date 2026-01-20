@@ -2,64 +2,61 @@ https://grahamcluley.com/feed/,Graham Cluley
 https://threatpost.com/feed/,Threatpost
 https://krebsonsecurity.com/feed/,Krebs on Security
 https://www.darkreading.com/rss.xml,Dark Reading
-http://feeds.feedburner.com/eset/blog,We Live Security
+https://www.welivesecurity.com/feed/,We Live Security (ESET)
 https://davinciforensics.co.za/cybersecurity/feed/,DaVinci Forensics
-https://blogs.cisco.com/security/feed,Cisco
-https://www.infosecurity-magazine.com/rss/news/,Information Security Magazine
-http://feeds.feedburner.com/GoogleOnlineSecurityBlog,Google
+https://blogs.cisco.com/security/feed,Cisco Security
+https://www.infosecurity-magazine.com/rss/news/,Infosecurity Magazine
 https://blog.google/threat-analysis-group/rss/,Google TAG
-http://feeds.trendmicro.com/TrendMicroResearch,Trend Micro
-https://www.bleepingcomputer.com/feed/,Bleeping Computer
-https://www.proofpoint.com/us/rss.xml,Proof Point
-http://feeds.feedburner.com/TheHackersNews?format=xml,Hacker News
+https://blog.google/security/feed/,Google Security Blog
+https://www.trendmicro.com/en_us/research/rss.xml,Trend Micro Research
+https://www.bleepingcomputer.com/feed/,BleepingComputer
+https://www.proofpoint.com/us/rss.xml,Proofpoint
+https://thehackernews.com/feeds/posts/default,Hacker News
 https://www.schneier.com/feed/atom/,Schneier on Security
 https://www.binarydefense.com/feed/,Binary Defense
-https://securelist.com/feed/,Securelist
+https://securelist.com/feed/,Securelist (Kaspersky)
 https://research.checkpoint.com/feed/,Checkpoint Research
-https://www.virusbulletin.com/rss,VirusBulletin
-https://modexp.wordpress.com/feed/,Modexp
+https://www.virusbulletin.com/rss,Virus Bulletin
+https://modexp.wordpress.com/feed/,Modexp Blog
 https://www.tiraniddo.dev/feeds/posts/default,James Forshaw
-https://blog.xpnsec.com/rss.xml,Adam Chester
-https://msrc-blog.microsoft.com/feed/,Microsoft Security
+https://blog.xpnsec.com/rss.xml,Adam Chester (XPN)
+https://msrc-blog.microsoft.com/feed/,Microsoft Security Blog
+https://api.msrc.microsoft.com/update-guide/rss,MSRC Security Updates
 https://www.recordedfuture.com/feed,Recorded Future
 https://www.sentinelone.com/feed/,SentinelOne
-https://redcanary.com/feed/,RedCanary
-https://cyber-news.fr/feed/atom?,Cyber-News
-https://leak-lookup.com/rss,Leak-Lookup
-https://cybersecurity.att.com/site/blog-all-rss,ATT
-https://www.cisa.gov/uscert/ncas/alerts.xml,US-CERT CISA
-https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml,NCSC
-https://www.cisecurity.org/feed/advisories,Center of Internet Security
-https://cert.ssi.gouv.fr/alerte/feed/,FR-CERT Alertes
-https://cert.ssi.gouv.fr/avis/feed/,FR-CERT Avis
-https://www.enisa.europa.eu/publications/RSS,EU-ENISA Publications
-https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=8149516204242144484&board=MicrosoftSentinelBlog&size=25,Microsoft Sentinel
-https://research.nccgroup.com/category/threat-intelligence/feed/,NCC
-https://isc.sans.edu/rssfeed.xml,SANS
-https://www.databreaches.net/feed/,DataBreaches
-https://unit42.paloaltonetworks.com/feed/,Unit42
-http://feeds.feedburner.com/darknethackers,DarkNet
-http://nakedsecurity.sophos.com/feed/,Naked Security
-https://api.msrc.microsoft.com/update-guide/rss,MSRC Security Update
+https://redcanary.com/feed/,Red Canary
+https://www.cisa.gov/uscert/ncas/alerts.xml,CISA Alerts
+https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml,NCSC Advisories
+https://www.cisecurity.org/feed/advisories,Center for Internet Security
+https://cert.ssi.gouv.fr/alerte/feed/,CERT-FR Alertes
+https://cert.ssi.gouv.fr/avis/feed/,CERT-FR Avis
+https://www.enisa.europa.eu/publications/RSS,ENISA Publications
+https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?board=MicrosoftSentinelBlog&size=25,Microsoft Sentinel
+https://research.nccgroup.com/category/threat-intelligence/feed/,NCC Group
+https://isc.sans.edu/rssfeed.xml,SANS Internet Storm Center
+https://www.databreaches.net/feed/,DataBreaches.net
+https://unit42.paloaltonetworks.com/feed/,Unit42 (Palo Alto)
+https://nakedsecurity.sophos.com/feed/,Sophos Naked Security
 https://binarly.io/rss.xml,Binarly
 https://securitylabs.datadoghq.com/rss/feed.xml,Datadog Security Labs
 https://www.cloudvulndb.org/rss/feed.xml,Cloud Vuln DB
 https://johnstawinski.com/feed/,John Stawinski
-https://techcrunch.com/feed/,TechCrunch
-https://aws.amazon.com/security/security-bulletins/feed/,AWS Latest
-http://feeds.feedburner.com/AWSSecurity,AWS Security
-http://feeds.arstechnica.com/arstechnica/security,Ars Technica
+https://aws.amazon.com/security/security-bulletins/feed/,AWS Security Bulletins
+https://arstechnica.com/feed/?category=security,Ars Technica Security
 https://blog.malwarebytes.com/feed/,Malwarebytes Labs
-https://nakedsecurity.sophos.com/feed/,SOPHOS Naked Security
-https://medium.com/feed/@magoo/,Startup Security
+https://medium.com/feed/@magoo/,Startup Security (Magoo)
 https://medium.com/feed/starting-up-security,Starting Up Security
-https://www.theregister.co.uk/security/headlines.atom,The Register - Security
+https://www.theregister.com/security/headlines.atom,The Register Security
 https://medium.com/feed/threat-intel/,Symantec Threat Intel
-https://threatpost.com/feed/,ThreatPost
-http://www.zdnet.com/topic/security/rss.xml,ZDNet Security
-https://technet.microsoft.com/en-us/security/rss/advisory,MSRC SA
-https://www.ubuntu.com/usn/atom.xml,UBUNTU SA
-https://www.us-cert.gov/ncas/current-activity.xml,US_CERT
-https://www.wired.com/feed/category/security/latest/rss,Wired
+https://ubuntu.com/security/notices/rss.xml,Ubuntu Security Notices
+https://www.wired.com/feed/category/security/latest/rss,Wired Security
 https://filestore.fortinet.com/fortiguard/rss/threatsignal.xml,FortiGuard Threat Signal
 https://filestore.fortinet.com/fortiguard/rss/outbreakalert.xml,FortiGuard Outbreak Alerts
+https://www.mandiant.com/resources/blog/rss.xml,Mandiant Threat Intel
+https://www.crowdstrike.com/blog/feed/,CrowdStrike Threat Intel
+https://blog.talosintelligence.com/feeds/posts/default,Cisco Talos Blog
+https://thedfirreport.com/feed/,The DFIR Report
+https://cert.europa.eu/publications/security-advisories/rss.xml,CERT-EU Advisories
+https://www.flashpoint.io/blog/rss.xml,Flashpoint Intel
+https://vulncheck.com/feed.xml,VulnCheck Research
+https://troyhunt.com/feed/,Troy Hunt (Have I Been Pwned)
